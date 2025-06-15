@@ -3,12 +3,12 @@
 A comprehensive guide to learning Machine Learning from fundamentals to advanced concepts. Track your progress by checking off completed items.
 
 ## Prerequisites
-- [ ] Python programming basics
-- [ ] Linear algebra fundamentals
-- [ ] Basic statistics and probability
-- [ ] Calculus basics (derivatives, gradients)
-- [ ] Basic command line usage
-- [ ] Git version control
+- [x] Python programming basics
+- [x] Linear algebra fundamentals
+- [x] Basic statistics and probability
+- [x] Calculus basics (derivatives, gradients)
+- [x] Basic command line usage
+- [x] Git version control
 
 ## 1. Foundations 📚
 ### Mathematics and Statistics
